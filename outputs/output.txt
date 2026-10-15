@@ -1,0 +1,8 @@
+Vanilla GCN - Karate Club Dataset
+Nodes: 34
+Edges: 78
+Training accuracy: 100.00%
+Overall dataset accuracy: 82.35%
+Overall accuracy is not held-out test accuracy.
+Embedding shape: (34, 16)
+Final training loss: 0.0158
